@@ -23,6 +23,7 @@ class Play extends Phaser.Scene {
 
   update() {
     //console.log("Play: update");
+    // test comment
     this.tomato.angle++;
   }
 }
